@@ -1,0 +1,7 @@
+3 Passos para calcular a complexidade
+
+1- Levar em consideração apenas as repetições do código
+
+2- Verificar a complexidade das funções/métodos próprios da linguagem
+
+3- Ignorar as constantes e utilizar o termo de maior grau
